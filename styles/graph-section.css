@@ -1,0 +1,444 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 91.6rem;
+}.graph-section-z6u {
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.graph-section-z6u .year-and-dropdown-jaH {
+  margin: 0rem 0rem 0.6rem 85.9rem;
+  width: calc(100% - 85.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.graph-section-z6u .year-and-dropdown-jaH .item-2023-ex9 {
+  margin-right: 0.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.graph-section-z6u .year-and-dropdown-jaH .arrow-down-icon-yjX {
+  margin-top: 0.5rem;
+  width: 1rem;
+  height: 0.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 {
+  box-sizing: border-box;
+  padding: 9.6rem 4.1rem 3.9rem 4rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV {
+  margin-bottom: 0.6rem;
+  width: 100%;
+  height: 21.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .graph-hr-ysw {
+  width: 83.5rem;
+  height: 20rem;
+  position: absolute;
+  left: 0;
+  top: 1.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .graph-hr-ysw .rectangle-42-i4q {
+  width: 100%;
+  height: 2.5rem;
+  border: solid 0.1rem #c0b9b9;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .graph-hr-ysw .rectangle-41-SmX {
+  width: 100%;
+  height: 2.5rem;
+  border: solid 0.1rem #c0b9b9;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .graph-hr-ysw .rectangle-40-Bj7 {
+  width: 100%;
+  height: 2.5rem;
+  border: solid 0.1rem #c0b9b9;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .graph-hr-ysw .rectangle-39-8uF {
+  width: 100%;
+  height: 2.5rem;
+  border: solid 0.1rem #c0b9b9;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .graph-hr-ysw .rectangle-38-HXF {
+  width: 100%;
+  height: 2.5rem;
+  border: solid 0.1rem #c0b9b9;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .graph-hr-ysw .rectangle-37-e6u {
+  width: 100%;
+  height: 2.5rem;
+  border: solid 0.1rem #c0b9b9;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .graph-hr-ysw .rectangle-36-Bcd {
+  width: 100%;
+  height: 2.5rem;
+  border: solid 0.1rem #c0b9b9;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .graph-hr-ysw .rectangle-35-XwP {
+  width: 100%;
+  height: 2.5rem;
+  border: solid 0.1rem #c0b9b9;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .hour-per-month-5T7 {
+  width: 3.8rem;
+  height: 21.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  row-gap: 1.3rem;
+  display: flex;
+  flex-direction: column;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .hour-per-month-5T7 .hr-m-ncR {
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #c0b9b9;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .hour-per-month-5T7 .hr-m-8AV {
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #c0b9b9;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .hour-per-month-5T7 .hr-m-UEM {
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #c0b9b9;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .hour-per-month-5T7 .hr-m-pJD {
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #c0b9b9;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .hour-per-month-5T7 .hr-m-Zmb {
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #c0b9b9;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .hour-per-month-5T7 .hr-m-vMF {
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #c0b9b9;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .hour-per-month-5T7 .hr-m-Udf {
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #c0b9b9;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .hour-per-month-5T7 .hr-m-qUD {
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #c0b9b9;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .hour-per-month-5T7 .hr-m-nuF {
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #c0b9b9;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .candlestick-XM3 {
+  width: 51.3rem;
+  height: 21.4rem;
+  position: absolute;
+  left: 18rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .candlestick-XM3 .auto-group-gmmb-DUm {
+  box-sizing: border-box;
+  padding: 1.1rem 1.8rem 0rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .candlestick-XM3 .auto-group-gmmb-DUm .rectangle-43-K21 {
+  margin-right: 1.9rem;
+  width: 2.5rem;
+  height: 18rem;
+  background-color: #5f4de3;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .candlestick-XM3 .auto-group-gmmb-DUm .rectangle-44-T8D {
+  margin-right: 2rem;
+  width: 2.5rem;
+  height: 12.5rem;
+  background-color: #b4adf8;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .candlestick-XM3 .auto-group-gmmb-DUm .rectangle-45-Q3T {
+  margin-right: 2rem;
+  width: 2.5rem;
+  height: 20.3rem;
+  background-color: #5f4de3;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .candlestick-XM3 .auto-group-gmmb-DUm .rectangle-46-k7K {
+  margin-right: 1.9rem;
+  width: 2.5rem;
+  height: 13.9rem;
+  background-color: #b4adf8;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .candlestick-XM3 .auto-group-gmmb-DUm .rectangle-47-tjK {
+  width: 2.5rem;
+  height: 16.4rem;
+  background-color: #5f4de3;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .candlestick-XM3 .rectangle-48-Skq {
+  width: 2.5rem;
+  height: 21.4rem;
+  background-color: #5f4de3;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .candlestick-XM3 .auto-group-pscq-obP {
+  box-sizing: border-box;
+  padding: 0.4rem 0rem 0rem 2rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .candlestick-XM3 .auto-group-pscq-obP .rectangle-49-vvu {
+  margin-right: 1.8rem;
+  width: 2.5rem;
+  height: 18.9rem;
+  background-color: #5f4de3;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .candlestick-XM3 .auto-group-pscq-obP .rectangle-50-UxR {
+  margin-right: 2.1rem;
+  width: 2.5rem;
+  height: 13.9rem;
+  background-color: #b4adf8;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .candlestick-XM3 .auto-group-pscq-obP .rectangle-51-Rsf {
+  margin-right: 1.9rem;
+  width: 2.5rem;
+  height: 13rem;
+  background-color: #b4adf8;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .candlestick-XM3 .auto-group-pscq-obP .rectangle-52-akZ {
+  margin-right: 1.9rem;
+  width: 2.5rem;
+  height: 16.8rem;
+  background-color: #5f4de3;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .candlestick-XM3 .auto-group-pscq-obP .rectangle-53-jNZ {
+  margin-right: 2rem;
+  width: 2.5rem;
+  height: 21rem;
+  background-color: #5f4de3;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .auto-group-cpcd-3UV .candlestick-XM3 .auto-group-pscq-obP .rectangle-54-g2u {
+  width: 2.5rem;
+  height: 11.4rem;
+  background-color: #b4adf8;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .month-26m {
+  margin: 0rem 14.5rem 0rem 18.2rem;
+  width: calc(100% - 32.7rem);
+  display: flex;
+  column-gap: 2.5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .month-26m .jan-XZK {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .month-26m .feb-H2h {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .month-26m .mar-1zH {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .month-26m .apr-a1o {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .month-26m .may-Xhj {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .month-26m .jun-VPf {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .month-26m .jul-rED {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .month-26m .aug-KtV {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .month-26m .sep-5cm {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .month-26m .oct-STK {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .month-26m .nov-CSV {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.graph-section-z6u .auto-group-tgy1-ut5 .month-26m .dec-XzZ {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

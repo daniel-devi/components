@@ -1,0 +1,765 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 43rem;
+}.view-all-tasks-section-bYM {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  box-sizing: border-box;
+  padding: 4rem 2.1rem 3rem 2.1rem;
+  width: 100%;
+
+  .view-all-tasks-WvD {
+    margin: 0rem 0rem 1rem 0.8rem;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+
+    .view-all-tasks-f2R {
+      margin-bottom: 0.4rem;
+      font-size: 1.8rem;
+      font-weight: 600;
+      line-height: 1.5;
+      color: #000000;
+      font-family: Poppins, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .select-a-date-BmT {
+      color: #808080;
+      font-family: Poppins, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      font-size: 1.4rem;
+      font-weight: 400;
+      line-height: 1.5;
+    }
+  }
+  .calendar-XaR {
+    flex-shrink: 0;
+    margin-bottom: 6.5rem;
+    box-sizing: border-box;
+    padding: 0.9rem 3rem 0rem 2.7rem;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+    .month-eQ9 {
+      font-size: 1.4rem;
+      font-family: Poppins, 'Source Sans Pro';
+      white-space: nowrap;
+      display: flex;
+      background-color: #988df1;
+      border-radius: 0.7rem;
+      font-weight: 400;
+      line-height: 1.5;
+      color: #ffffff;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      width: calc(100% - 23.4rem);
+      height: 2.3rem;
+      margin: 0rem 11.5rem 2.1rem 11.9rem;
+    }
+    .days-of-the-week-6mw {
+      flex-shrink: 0;
+      margin-bottom: 3.7rem;
+      width: 100%;
+      display: flex;
+      column-gap: 4rem;
+      align-items: center;
+
+      .mo-dG5 {
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #818181;
+      }
+      .tu-Mxm {
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #818181;
+      }
+      .we-iHX {
+        font-weight: 400;
+        line-height: 1.5;
+        color: #818181;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 1rem;
+      }
+      .th-4sB {
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #818181;
+        font-family: Poppins, 'Source Sans Pro';
+      }
+      .fr-prM {
+        line-height: 1.5;
+        color: #818181;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 1rem;
+        font-weight: 400;
+      }
+      .sa-aqX {
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #988df1;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+      .su-jTX {
+        flex-shrink: 0;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #988df1;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+    }
+    .dates-63B {
+      border-radius: 0.5rem;
+      flex-shrink: 0;
+      margin: 0rem 0.1rem 0rem 0.2rem;
+      width: calc(100% - 0.3rem);
+      height: 27.5rem;
+      display: flex;
+      align-items: center;
+
+      .auto-group-gvox-QZf {
+        row-gap: 3.7rem;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        margin-right: 3.6rem;
+        height: 100%;
+
+        .item-26-91T {
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: #818181;
+          font-family: Poppins, 'Source Sans Pro';
+        }
+        .item-2-gXB {
+          font-weight: 400;
+          line-height: 1.5;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-left: 0.1rem;
+          font-size: 1rem;
+        }
+        .item-9-RDs {
+          font-weight: 400;
+          line-height: 1.5;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 1rem;
+        }
+        .item-16-ASM {
+          margin-left: 0.1rem;
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+        .item-23-hx5 {
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 0.1rem;
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+        }
+        .item-30-3W9 {
+          font-weight: 400;
+          line-height: 1.5;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 1rem;
+        }
+      }
+      .auto-group-yhjp-Wed {
+        margin-right: 4rem;
+        width: 2rem;
+        height: 100%;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+
+        .auto-group-7iph-FMK {
+          flex-direction: column;
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 0rem 0.3rem 3.5rem 0.5rem;
+          width: 100%;
+          align-items: center;
+          display: flex;
+
+          .item-27-bAH {
+            margin-bottom: 3.7rem;
+            font-size: 1rem;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #818181;
+            font-family: Poppins, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+          }
+          .item-3-Xpd {
+            color: #000000;
+            font-family: Poppins, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-right: 0.2rem;
+            font-size: 1rem;
+            font-weight: 400;
+            line-height: 1.5;
+          }
+        }
+        .highlighted-date-Fkd {
+          white-space: nowrap;
+          background-color: #988df1;
+          border-radius: 0.5rem;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          margin-bottom: 3.4rem;
+          width: 100%;
+          font-weight: 400;
+          flex-shrink: 0;
+          font-size: 1rem;
+          color: #ffffff;
+          font-family: Poppins, 'Source Sans Pro';
+          height: 2rem;
+          line-height: 1.5;
+        }
+        .item-17-8pR {
+          margin: 0rem 0rem 3.7rem 0.1rem;
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+        .item-24-rVX {
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin: 0rem 0rem 3.7rem 0.1rem;
+        }
+        .item-31-yq3 {
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+      }
+      .auto-group-bczm-ind {
+        flex-shrink: 0;
+        margin-right: 3.8rem;
+        height: 100%;
+        row-gap: 3.7rem;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+
+        .item-28-TkD {
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: #818181;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+        .item-4-1Wq {
+          font-weight: 400;
+          line-height: 1.5;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 1rem;
+        }
+        .item-11-mF7 {
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+        .item-18-JF3 {
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 0.1rem;
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: #000000;
+        }
+        .item-25-FAH {
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+        .item-1-Bpd {
+          flex-shrink: 0;
+          margin-right: 0.1rem;
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: #808080;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+      }
+      .auto-group-1q29-j5T {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        margin-right: 3.8rem;
+        height: 100%;
+        row-gap: 3.7rem;
+
+        .item-29-4dX {
+          color: #818181;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-left: 0.1rem;
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+        }
+        .item-5-Bi9 {
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-left: 0.1rem;
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+        }
+        .item-12-6q7 {
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-left: 0.1rem;
+        }
+        .item-19-1x5 {
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+        .item-26-waq {
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 0.1rem;
+        }
+        .item-2-g2d {
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: #808080;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+      }
+      .auto-group-2rxq-DYM {
+        flex-shrink: 0;
+        margin-right: 3.7rem;
+        height: 100%;
+        row-gap: 3.7rem;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+
+        .item-30-kYH {
+          font-weight: 400;
+          line-height: 1.5;
+          color: #818181;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 1rem;
+        }
+        .item-6-hiR {
+          flex-shrink: 0;
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+        .item-13-3GV {
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 0.1rem;
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+        }
+        .item-20-MY5 {
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: #000000;
+        }
+        .item-27-tH7 {
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 0.1rem;
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+        }
+        .item-3-bxD {
+          color: #808080;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 0.1rem;
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+        }
+      }
+      .auto-group-m785-Y6m {
+        flex-shrink: 0;
+        margin-right: 4rem;
+        height: 100%;
+        row-gap: 3.7rem;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+
+        .item-31-Sxq {
+          flex-shrink: 0;
+          margin-left: 0.1rem;
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: rgba(152, 141, 241, 0.5);
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+        .item-7-Atq {
+          margin-left: 0.1rem;
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: #988df1;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+        .item-14-7ZB {
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: #988df1;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-left: 0.1rem;
+        }
+        .item-21-f4u {
+          flex-shrink: 0;
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: #988df1;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+        .item-28-QHP {
+          font-weight: 400;
+          line-height: 1.5;
+          color: #988df1;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 1rem;
+        }
+        .item-4-wo7 {
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: rgba(152, 141, 241, 0.5);
+          font-family: Poppins, 'Source Sans Pro';
+        }
+      }
+      .auto-group-ixup-VZj {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        height: 100%;
+        row-gap: 3.7rem;
+
+        .item-1-SE5 {
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-left: 0.1rem;
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: #988df1;
+        }
+        .item-8-P9K {
+          font-weight: 400;
+          line-height: 1.5;
+          color: #988df1;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 1rem;
+        }
+        .item-15-XWR {
+          color: #988df1;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-left: 0.1rem;
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+        }
+        .item-22-Tus {
+          flex-shrink: 0;
+          margin-left: 0.1rem;
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: #988df1;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+        .item-29-QaD {
+          line-height: 1.5;
+          color: #988df1;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 1rem;
+          font-weight: 400;
+        }
+        .item-5-A3b {
+          font-weight: 400;
+          line-height: 1.5;
+          color: rgba(152, 141, 241, 0.5);
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 1rem;
+        }
+      }
+    }
+  }
+  .accomplished-task-box-tVP {
+    row-gap: 1rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 2.5rem 9.5rem 3.2rem 6rem;
+    border-radius: 0.7rem;
+    flex-shrink: 0;
+    width: 100%;
+    border: solid 0.1rem #988df1;
+
+    .task-1-osF {
+      margin-right: 7.9rem;
+      width: calc(100% - 7.9rem);
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .check-icon-xVF {
+        margin-right: 0.8rem;
+        width: 2rem;
+        height: 2rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .run-paid-advertisements-Vk5 {
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-top: 0.1rem;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #000000;
+      }
+    }
+    .task-2-RNq {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .check-icon-nDP {
+        width: 2rem;
+        height: 2rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin-right: 0.8rem;
+      }
+      .engage-with-customers-across-platforms-JxR {
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-top: 0.1rem;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #000000;
+        font-family: Poppins, 'Source Sans Pro';
+      }
+    }
+    .task-3-qBf {
+      margin-right: 12.7rem;
+      width: calc(100% - 12.7rem);
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .check-icon-n6u {
+        height: 2rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin-right: 0.8rem;
+        width: 2rem;
+      }
+      .meet-with-team-7us {
+        font-weight: 400;
+        line-height: 1.5;
+        color: #000000;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-top: 0.1rem;
+        font-size: 1rem;
+      }
+    }
+    .task-4-r6m {
+      margin-right: 2.8rem;
+      width: calc(100% - 2.8rem);
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .check-icon-PsP {
+        flex-shrink: 0;
+        margin-right: 0.8rem;
+        width: 2rem;
+        height: 2rem;
+        object-fit: contain;
+        vertical-align: top;
+      }
+      .craft-compelling-content-on-twitter-YEV {
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-top: 0.1rem;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #000000;
+      }
+    }
+  }
+}
